@@ -1,6 +1,8 @@
 # Home Nursing - infirmieradomicile.ch
 
-Welcome to the repository for my first website, **Home Nursing**. This project was developed for an independent nurse based in Geneva, aiming to provide a professional online platform for home nursing services.
+Welcome to the repository for my first website, **Home Nursing**. This project was developed for an independent nurse based in Geneva, aiming to provide a professional online platform for home nursing services. 
+
+This project is part of my web designer training at **Nomades Technologies** in Geneva.
 
 ## Website Address
 
@@ -19,3 +21,4 @@ Additionally, a **digital marketing strategy** is currently underway to enhance 
 - Developed using **HTML**, **CSS**, and **JavaScript** for the user interface.
 - **PHP** is used for dynamic functionalities.
 - Hosted on **GoDaddy**, with domain configuration for easy access.
+
