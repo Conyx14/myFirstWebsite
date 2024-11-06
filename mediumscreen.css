@@ -1,0 +1,391 @@
+@media (min-width: 721px) and (max-width: 1023px) {
+  
+    .menu__btn {
+        display: block;
+        right: 30px;
+        top: 46px;
+      }   
+
+      p {
+        text-align: start;
+      }
+        
+        #horaires {
+          display: none;
+        }
+        #navigation {
+          display: none;
+        }
+        .gtranslate_wrapper .gglobe{
+          width: 30px;
+          height: 30px;
+        }
+        #box1 {
+          display: flex;
+          position: fixed;
+          width: 100%;
+          height: 100px;
+          z-index: 1000;
+        }
+        #bannernav {
+          display: flex;
+          flex-wrap: nowrap;
+          justify-content: flex-end;
+          align-items: center;
+          width: 90%;
+          flex-direction: row;
+          gap: 100px;
+        }
+        #phone {
+          font-size: 3vw;
+        }
+        .firstbanner-containera1 {
+          text-align: center;
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: column;
+          height: auto;
+          font-size: 3vw;
+          margin: 0 auto;
+        }
+        
+        .firstbanner-containera3,
+        .firstbanner-containera4,
+        .firstbanner-containera5,
+        .firstbanner-containera6 {
+          text-align: center;
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: column;
+          font-size: 3vw;
+        }
+        
+        .firstbanner-containera2{
+          text-align: center;
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: column;
+          font-size: 3vw;
+        }
+
+        .text3,
+        .text4{
+          width: 90%;
+          text-align: center;
+          margin: 60px auto;
+          font-size: 2vw;
+        }
+        .text{
+          width: 90%;
+          text-align: center;
+          margin: 60px auto;
+          margin-bottom: 20px;
+          font-size: 2vw;
+        }
+        .text3 h4 {
+          margin: auto 20px;
+          text-align: start;
+        }
+        .text3 h3 {
+          margin: auto 10px;
+        }
+        .text h2{
+          margin: auto 20px;
+        }
+        .logo{
+          position: fixed;
+            width: 15vw;
+            height: auto;
+            top: -5px;
+            left: -15px;
+            transition: all 0.2s ease-in-out;
+        }
+        .menu-reduit {
+          display: none;
+        }
+        .button3 {
+          display: flex;
+          flex-direction: column;
+          gap: 50px;
+          width: 100%;
+          font-size: 4vw;
+          justify-content: center;
+          align-items: center;
+        }
+        .button2{
+          display: flex;
+          flex-wrap: nowrap;
+          gap: 50px;
+          width: 80%;
+          font-size: 3vw;
+          justify-content: center;
+          align-items: center;
+          margin-bottom: 60px;
+        }
+        .button6{
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          font-size: 3vw;
+          justify-content: center;
+          align-items: center;
+          margin: 20px auto;
+        }
+        .button_style4{
+          width: 50%;
+          font-size: 3vw;
+        }
+        .button_style1,
+        .button_style2{
+          width: 100%;
+        }
+        .button_style2{
+          padding: 8px 5px;
+        }
+        .button_style3,
+        .button_style6{
+          flex-direction: column;
+          gap: 50px;
+          width: 100%;
+          font-size: 4vw;
+          justify-content: center;
+          align-items: center;
+        }
+        .button_style7,
+        .button_style5{
+          font-size: 3vw;
+        }
+        .button4,
+        .button5{
+          margin: 20px auto;
+          width: 70%;
+        }
+        .wpcf7-form-control-wrap{
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: column;
+        }
+        header{
+          margin: 0;
+          width: 100%;
+          border: none;
+          height: 80px;
+        }
+        main {
+          padding-top: 100px;
+          width: 100%;
+        }
+        .column3{
+          width: 100%;
+          display: flex;
+          margin: 20px auto;
+          justify-content: center;
+          font-size: 3vw;
+        }
+        .paragraph1,
+        .paragraph2,
+        .paragraph3,
+        .column1  {
+          width: 80%;
+          margin: 10px auto;
+          text-align: center;
+          height: auto;
+          font-size: 3vw;
+        }
+        .davidprofilfirstpart-container,
+        .davidprofilsecondpart-container,
+        .firstparagraph_prestations,
+        .tarifs-container,
+        .securityparagraph,
+        .contactform_container,
+        .wpcf7-form{
+          width: 80%;
+          margin: 10px auto;
+          height: auto;
+          font-size: 3vw;
+        }
+        .tarifs-container {
+          flex-direction: column;
+        }
+        .firstparagraph {
+          width: 100%;
+          margin: 20px auto;
+        }
+        
+        .slogancontact_container{
+          width: 80%;
+          margin: 20px auto;
+          height: auto;
+          font-size: 4vw;
+        }
+        .diploma-container,
+        .certificate-container{
+          width: 80%;
+          margin: 10px auto;
+          height: auto;
+        }
+        .secondparagraph_prestations{
+          width: 100%;
+          margin: 10px auto;
+          font-size: 3vw;
+          border: none;
+        }
+        .colgauche_prestations,
+        .coldroite_prestations{
+          width: 80%;
+          margin: 10px auto;
+          height: auto;
+          font-size: 3vw;
+        }
+        .colcontainer{
+          border: none;
+          width: 100%;
+          padding: 0;
+          margin: 0;
+        
+        }
+        .diploma-container h4,
+        .diploma-container h5,
+        .certificate-container h4,
+        .certificate-container h5{
+          font-size: 3vw;
+        }
+        .contactdetails_container{
+          font-size: 3vw;
+        }
+        .contacttimeicon{
+          display: flex;
+          flex-wrap: nowrap;
+          width: 70%;
+        }
+        .diplomaimg,
+        .text3 img{
+          width: 10%;
+          height: auto;
+        }
+        
+        .signature,
+        .sign{
+          font-size: 7vw;
+          padding: 0;
+        }
+        .paragraph2{
+          border-left: solid 3px #09c;
+          border-right: none;
+        }
+        .paragraph1main {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          margin: 10px auto;
+          justify-content: center;
+        }
+        .paragraph1{
+          width: 80%;
+          margin: 0px auto;
+          height: auto;
+        }
+        .button3{
+          margin: 10px auto;
+        }
+        #tarifsbanner{
+          width: 100%;
+          display: flex;
+          margin: 20px auto;
+          justify-content: center;
+        }
+        .column1{
+          margin: 0 auto;
+        }
+        .secondbanner-containerb1,
+        .secondbanner-containerb3{
+            text-align: center;
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+            height: auto;
+            font-size: 3vw;
+            margin: 0 auto;
+        }
+        .smallbanner-container{
+            flex-direction: column;
+            width: 100%;
+        }
+        .smallbanner{
+          display: flex;    
+          flex-wrap: wrap;
+        }
+        .zoneintervention{
+          font-size: 2vw;
+          margin: 10px 20px;
+        }
+        .button6 form input {
+          font-size: 4vw;
+        }
+
+        .logopartner-banner{
+          font-size: 3vw;
+        }
+        .text2{
+          width: 80%;
+        }
+        
+        .iconprestations{
+          justify-content: center;
+        }
+        .titlelogo1{
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: column;
+          justify-content: center;
+          width: 100%;
+
+        }
+        
+        
+        .footericon {
+          width: 200px;
+        }
+        .logo2 {
+          display: none;
+        }
+        #myBtn{
+          position: fixed;
+          bottom: 10px;
+          right: 20px;
+          z-index: 99;
+          border: none;
+          outline: none;
+          cursor: pointer;
+          font-size: 4vh;
+          font-family: 'lato';
+          background-color: transparent;
+        }
+        .button_style5{
+          margin: 30px 0;
+        }
+        .listbullets ul li{
+          font-size: 3vw;
+        }
+        #navFooter{
+          display: none;
+        }
+        #box2{
+          display: none;
+        }
+        #box3{
+          height: auto;
+        
+        }
+        #Polcookies{
+          align-items: center;
+          justify-content: center;
+          margin: 20px auto;
+          font-size: 1.5vw;
+        }
+        
+  

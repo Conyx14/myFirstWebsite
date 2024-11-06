@@ -1,0 +1,28 @@
+@media (min-width: 1900px) {
+    
+  .logo {
+    position: fixed;
+    width: 9vw; 
+    height: auto; 
+    top: -10px;
+    left: 0px;
+    transition: all 0.2s ease-in-out;
+}
+  
+.logo-reduit {
+  position: fixed;
+  width: 5%;
+  transition: all 0.2s ease-in-out;
+
+}
+.signature {
+  font-family: 'Dancing_script';
+  font-size: 3vw;
+  color: #333333;
+}
+.button_style7 {
+  font-size: 1vw;
+}
+
+
+  }

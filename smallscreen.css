@@ -1,0 +1,434 @@
+@media (max-width: 720px) {
+
+
+
+.menu__btn {
+  display: block;
+  right: 30px;
+  top: 46px;
+}
+p {
+  text-align: start;
+  font-size: 4vw;
+  font-family: 'lato';
+}
+
+#horaires {
+  display: none; 
+}
+#navigation {
+  display: none;
+}
+
+#box1 {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  z-index: 1000;
+}
+#bannernav {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  flex-direction: row;
+}
+#phone {
+  font-size: 4vw;
+}
+.firstbanner-containera1 {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: auto;
+  font-size: 3vw;
+  margin: 0 auto;
+}
+
+.firstbanner-containera2,
+.firstbanner-containera3,
+.firstbanner-containera4,
+.firstbanner-containera5,
+.firstbanner-containera6 {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: auto;
+  font-size: 3vw;
+}
+.firstbanner-containera1 .text h1,
+.firstbanner-containera2 .text h1{
+  overflow-wrap: break-word;
+  hyphens: auto;
+  width: 95%;
+}
+.text,
+.text4{
+  font-size: 3vw;
+  width: 100%;
+  text-align: center;
+  margin: 20px auto;
+}
+.text4 h1{
+  font-size: 4.5vw;
+  width: 100%;
+}
+.text h1{
+  font-size: 4.5vw;
+  width: 100%;
+  text-align: center;
+  margin: 20px auto;
+}
+.text3 h4 {
+  margin: auto 20px;
+  text-align: start;
+}
+.text3 h3 {
+  margin: 0;
+  width: 100%;
+}
+.text h2{
+  margin: auto 20px;
+}
+.logo{
+  position: fixed;
+  width: 25vw;
+  height: auto;
+  top: 0px;
+  left: -15px;
+  transition: all 0.2s ease-in-out;
+}
+.menu-reduit {
+  display: none;
+}
+#Uploadbtn {
+  color: transparent;
+
+}
+.buttoncontainer{
+  width: 100%;
+}
+.button2,
+.button3 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  width: 100%;
+  font-size: 4vw;
+  justify-content: center;
+  align-items: center;
+}
+.button_style2{
+  padding: 8px 5px;
+}
+.button6{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-size: 3vw;
+  justify-content: center;
+  align-items: center;
+}
+.button6 .wpcf7-form-control-wrap{
+
+}
+.button_style4{
+  width: 70%;
+
+}
+.button_style3,
+.button_style6{
+  flex-direction: column;
+  gap: 50px;
+  width: 100%;
+  font-size: 5vw;
+  justify-content: center;
+  align-items: center;
+}
+.button_style7{
+  font-size: 5vw;
+}
+.button4,
+.button5{
+  margin: 20px auto;
+  width: 70%;
+}
+.wpcf7-form-control-wrap{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+header{
+  margin: 0;
+  width: 100%;
+  border: none;
+  height: 80px;
+}
+main {
+  padding-top: 100px;
+  width: 100%;
+}
+.column3{
+  width: 100%;
+  display: flex;
+  margin: 20px auto;
+  justify-content: center;
+  font-size: 4vw;
+  gap: 20px;
+}
+.paragraph2,
+.paragraph3 {
+  width: 80%;
+  margin: 10px auto;
+  text-align: center;
+  height: auto;
+  font-size: 4vw;
+}
+.davidprofilfirstpart-container,
+.davidprofilsecondpart-container,
+.firstparagraph_prestations,
+.tarifs-container,
+.securityparagraph,
+.wpcf7-form{
+  width: 80%;
+  margin: 10px auto;
+  height: auto;
+  font-size: 4vw;
+}
+.contactform_container{
+  width: 80%;
+  margin: 10px auto;
+  height: auto;
+  font-size: 4vw;
+  gap: 0;
+}
+.leftsideprofil-container,
+.rightsideprofil-container {
+  width: 100%;
+}
+.slogancontact_container{
+  width: 80%;
+  margin: 20px auto;
+  height: auto;
+  font-size: 4vw;
+}
+.diplcertif-container{
+  width: 90%;
+  margin: 10px auto;
+  height: auto;
+}
+.diploma-container,
+.certificate-container{
+  width: 100%;
+  margin: 10px auto;
+  height: auto;
+}
+.secondparagraph_prestations{
+  width: 100%;
+  margin: 10px auto;
+  font-size: 4vw;
+  border: none;
+}
+.colgauche_prestations,
+.coldroite_prestations{
+  width: 80%;
+  margin: 10px auto;
+  height: auto;
+  font-size: 4vw;
+}
+.colcontainer{
+  border: none;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+
+}
+.diploma-container h4,
+.diploma-container h5,
+.certificate-container h4,
+.certificate-container h5{
+  font-size: 3vw;
+}
+.contactdetails_container{
+  font-size: 4vw;
+}
+.contacttimeicon{
+  display: flex;
+  flex-wrap: nowrap;
+  width: 70%;
+}
+.diplomaimg,
+.text3 img{
+  width: 10%;
+  height: auto;
+}
+
+.signature,
+.sign{
+  font-size: 7vw;
+  padding: 0;
+}
+.paragraph2{
+  border-left: solid 3px #09c;
+  border-right: none;
+}
+.paragraph1main {
+  width: 100%;
+  display: flex;
+  margin: 10px auto;
+  justify-content: center;
+}
+.paragraph1{
+  width: 80%;
+  margin: 0px auto;
+  text-align: center;
+  height: auto;
+}
+.titlelogo1 {
+  width: 100%;
+  text-align: center; 
+  margin: 0;  
+  font-size: 3vw;
+}
+.button3{
+  margin: 10px auto;
+}
+#tarifsbanner{
+  width: 100%;
+  display: flex;
+  margin: 20px auto;
+  justify-content: center;
+}
+
+.column1 {
+  font-size: 3vw;
+  font-family: 'lato';
+  width: 80%;
+  margin: 10px auto;
+  text-align: center;
+  height: auto;
+}
+.secondbanner-containerb1,
+.secondbanner-containerb3{
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: auto;
+    font-size: 3vw;
+    margin: 0 auto;
+}
+.smallbanner-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: auto;
+    font-size: 3vw;
+    margin: 0 auto;
+}
+.smallbanner{
+  flex-direction: column;
+}
+.zoneintervention{
+  font-size: 2vw;
+  margin: 10px 20px;
+}
+.zoneintervention p{
+  font-size: 2vw;
+}
+.logopartner-banner{
+  font-size: 3vw;
+}
+.text2{
+  width: 80%;
+}
+.button6 form input {
+  font-size: 7vw;
+}
+.firstparagraph {
+  width: 100%;
+  margin: 20px auto;
+}
+.firstparagraph img{
+  align-self: center;
+  width: 10%;
+  margin-bottom: 10px;
+
+}
+.firstparagraph_titleimg{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.iconprestations{
+  justify-content: center;
+}
+.iconprestations img{
+  width: 80%;
+}
+.logo-slider img{
+  width: 80%;
+  margin: 0 auto;
+}
+.logo-banner{
+  height: auto;
+}
+.footericon {
+  width: 200px;
+}
+.logo2 {
+  display: none;
+}
+#myBtn{
+  position: fixed;
+  bottom: 8px;
+  right: 10px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-family: 'lato';
+  background-color: transparent;
+}
+.button_style5{
+  margin: 30px 0;
+  font-size: 5vw;
+}
+.listbullets ul li{
+  font-size: 4vw;
+}
+#navFooter{
+  display: none;
+}
+#box2{
+  display: none;
+}
+#box3{
+  height: auto;
+
+}
+
+.gtranslate_wrapper .gglobe {
+  width: 20px;
+  height: 20px;
+}
+#Polcookies{
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+  font-size: 3vw;
+}
+}
+
+  
